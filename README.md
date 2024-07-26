@@ -21,4 +21,4 @@ This gathers the top artists for the last month using Last.fm's API. I do this s
 
 It uses Spotify's API to search for the top artist to get their picture, then puts those top artists in a formated string to tweet along with a image of the top artist.
 
-![top_5_artists_tweet_example]()
+![top_5_artists_tweet_example](https://github.com/ryanlatch/rlatchbot/blob/main/example_images/top_5_artists_tweet_example.png)
